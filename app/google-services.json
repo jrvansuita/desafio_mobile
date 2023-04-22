@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252012534603",
+    "project_id": "demobycoders",
+    "storage_bucket": "demobycoders.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252012534603:android:3bcf6c2c04cbff869226ce",
+        "android_client_info": {
+          "package_name": "com.example.demobycoders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252012534603-5uoinr0u69m2a3d9ed43cfvivtb9i2i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjb56BTsFQNVx1XWxiNBROGArNy5H6r1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252012534603-5uoinr0u69m2a3d9ed43cfvivtb9i2i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
