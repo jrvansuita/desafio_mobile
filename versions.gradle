@@ -19,4 +19,8 @@ ext {
     play_services_location_version = '21.0.1'
     kotlin_serialization_version = '1.4.1'
     datastore_version = '1.0.0'
+    coroutines_version = '1.6.4'
+    mockk_version = '1.13.2'
+    junit_version = '4.13.2'
+    turbine_version = '0.9.0'
 }

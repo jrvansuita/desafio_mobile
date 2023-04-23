@@ -20,3 +20,4 @@ fun <T> Result<T>.toFetchState() = fold(
 	}
 )
 
+fun <T> FetchState<T>.current() = (this as FetchState.Success<T>).data

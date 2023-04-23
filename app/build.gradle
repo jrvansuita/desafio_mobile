@@ -70,7 +70,9 @@ dependencies {
     implementation "com.google.maps.android:maps-compose:$compose_maps_version"
     implementation "com.google.android.gms:play-services-maps:$maps_service_version"
 
-    testImplementation 'junit:junit:4.13.2'
-    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
-    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+    testApi "io.mockk:mockk:$mockk_version"
+    testApi "org.jetbrains.kotlinx:kotlinx-coroutines-test:$coroutines_version"
+    testApi "junit:junit:$junit_version"
+    testApi "app.cash.turbine:turbine:$turbine_version"
+
 }
